@@ -1,1 +1,1 @@
-# templates
+project templates
